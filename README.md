@@ -12,6 +12,7 @@
 
 **AULA 6** - Validação do formulário e envio dos dados.
 
+---
 
 # Playlist do curso completo
 
