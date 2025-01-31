@@ -1,6 +1,6 @@
 # CURSO HTML5 PARA INICIANTES
 
-[**AULA 1** - Tags HTML.](https://youtu.be/qdBU1y_tBzs)
+**AULA 1** - Tags HTML.
 
 **AULA 2** - Estrutura de tags.
 
@@ -12,3 +12,7 @@
 
 **AULA 6** - Validação do formulário e envio dos dados.
 
+
+# Playlist do curso completo
+
+[Assistir agora](https://www.youtube.com/watch?v=qdBU1y_tBzs&list=PLvBM11bCvuL0flb9_disydfSAM4PDi2Mc)
