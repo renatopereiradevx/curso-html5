@@ -1,6 +1,6 @@
 # CURSO HTML5 PARA INICIANTES
 
-**AULA 1** - Tags HTML.
+[**AULA 1** - Tags HTML.](https://youtu.be/qdBU1y_tBzs)
 
 **AULA 2** - Estrutura de tags.
 
